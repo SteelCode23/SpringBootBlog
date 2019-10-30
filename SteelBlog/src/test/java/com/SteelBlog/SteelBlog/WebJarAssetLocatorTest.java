@@ -1,4 +1,4 @@
-package com.packtpub.springboot2blog;
+package com.steelblog.steelblog;
 
 import org.junit.Test;
 import org.webjars.WebJarAssetLocator;
